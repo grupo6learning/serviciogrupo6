@@ -10,7 +10,6 @@ server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
