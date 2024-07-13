@@ -1,0 +1,11 @@
+por lo menos tengo 3 repositorios.
+
+repo1 |
+repo2 |  github
+repo3 |
+
+----------------------------
+
+contarpersonas.py        --> recopilacion de datos por open cv
+appconteo.py                --> conexion con servidor
+index.html                     --> web usuario
